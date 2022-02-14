@@ -17,7 +17,7 @@
   <a href = "mailto:anaclarafreitas077@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ana-clara-freitas-454513230" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- ![Snake animation](https://github.com/AnaClaraFreitas/AnaClaraFreitas/blob/main/.github/fluxos%20de%20trabalho/main.yml)
+ ![Snake animation](https://github.com/AnaClaraFreitas/AnaClaraFreitas/actions/runs/1843707669/workflow)
  
 </div>
 
