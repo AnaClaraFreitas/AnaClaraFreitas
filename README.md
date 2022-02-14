@@ -10,7 +10,7 @@
   <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Ana-pic" height="150" style="border-radius:50px;" 
-  src="src="https://gifmaker.me/PlayGIFAnimation.php?folder=20220214086iwwPTTUJtID1M4z15PP4M&file=output_wnJcli.gif"
+  src = "https://discord.com/channels/942891633987428383/942891634557857803/942891781123604581">
 </div>
   
   ##
