@@ -1,4 +1,4 @@
-### Oii! 
+### Olá!
 
 <div align="center">
   <a href="https://github.com/AnaClaraFreitas">
@@ -22,5 +22,3 @@
  
 </div>
 
-  
-  
