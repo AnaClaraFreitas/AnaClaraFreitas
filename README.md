@@ -1,4 +1,4 @@
-### <i> Olá 🌎! Sou a Ana Clara, bem vindo (a) ao meu perfil Github!</i>
+### <i> Hi there! Sou a Ana Clara, bem-vindo(a) ao meu perfil Github!</i>
 
 🔹 No momento estudo Front-end 
 <br>
