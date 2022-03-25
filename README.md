@@ -2,7 +2,6 @@
 
 🔹 No momento estudo Front-end 
 <br>
-🔹 Amante da tecnologia e do conhecimento
 
 ##
 
