@@ -1,7 +1,3 @@
-### <i> 🔹 No momento estudo Front-end </i>
-
-
-<br>
 
 ##
 
