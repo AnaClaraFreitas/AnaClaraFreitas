@@ -31,6 +31,4 @@
   <a href="https://www.linkedin.com/in/ana-clara-freitas-454513230" target="_blank">
  <img align="center" alt ="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a></p>
  </div>
- 
- 
-
+ <br>
